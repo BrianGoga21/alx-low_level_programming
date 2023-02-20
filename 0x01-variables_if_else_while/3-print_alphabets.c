@@ -24,5 +24,5 @@ int main(void)
 	}
 
 	putchar('\n');
-	retun (0)
+	retun(0)
 }
