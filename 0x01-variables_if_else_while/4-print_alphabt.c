@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main
+ * main - main block
  * get a random number
- * return: 0
+ * return: 0 (Success)
  */
 int main(void)
 {
